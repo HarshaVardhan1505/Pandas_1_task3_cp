@@ -30,7 +30,7 @@ The main objective of this project is to demonstrate basic data analysis skills 
     ```
 2. Navigate to the project directory:
     ```bash
-    cd flipkart-data-analysis
+    cd flipkart_com-ecommerce_sample
     ```
 3. Install the required packages:
     ```bash
