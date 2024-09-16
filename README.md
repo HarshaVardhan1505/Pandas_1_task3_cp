@@ -26,7 +26,7 @@ The main objective of this project is to demonstrate basic data analysis skills 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/flipkart-data-analysis.git
+   [https://github.com/HarshaVardhan1505/Pandas_1_task3_cp.git]
     ```
 2. Navigate to the project directory:
     ```bash
